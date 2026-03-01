@@ -1,4 +1,4 @@
-# Hi there! I'm a .NET Backend Developer
+# Hi there!
 
 I am passionate about building scalable, high-performance server-side applications. My goal is to grow professionally within the **.NET ecosystem** and master modern backend architectures.
 
@@ -40,7 +40,7 @@ I am passionate about building scalable, high-performance server-side applicatio
 </p>
 
 ## 🌐 Languages
-- 🇬🇧 **English** – B1 (Intermediate)
-- 🇷🇺 **Russian** – Native
+- **English** – B1 (Intermediate)
+- **Russian** – Native
 
 *Always learning, always coding.*
